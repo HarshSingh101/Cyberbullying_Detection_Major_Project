@@ -1,14 +1,31 @@
-# Cyberbullying_Detection_Using_NLP
-# Group 16
-# B.Tech final year project
-# KIET Group of Institutions, Ghaziabad
-# Introduction:-
-• Bullying is an intentional, aggressive and repeated behavior that could be physical, verbal, sexual or mental. With rise of social media coupled with the Covid-19 pandemic, cyberbullying has reached all time highs. As social media usage becomes increasingly prevalent in every age group, most of us rely on this essential medium for our day-to-day communication. • Such large usage means that cyberbullying can effectively impact anyone at anytime or anywhere. The anonymity of internet makes such attacks more difficult to stop than traditional bullying.
-# Statistics
-• On April 15th 2020, UNICEF issued a warning in response to the increased risk of cyberbullying. • As per Times Of India 52,974 incidents of cyber crimes were reported in year 2021 in India. • Around 85 per cent of Indian children have reported being cyberbullied as well as having cyberbullied someone else at rates well over twice the international average. • Nearly 8 out of 10 individuals are subject to the different types of cyberbullying in India. Out of these around 63% faced online abuses and insults, and 59% were subject to false rumours and gossips for degrading their image. • Thus, we need to aware people about what Cyber-bullying is, and also take some measure to prevent it such that we can live in a safe environment without fear of being bullied.
+# Cyberbullying Detection Using NLP
+## Group 16 - B.Tech Final Year Project
+### KIET Group of Institutions, Ghaziabad
 
-For this purpose we will use "Cyberbullying classification" dataset extracted using twitter API, which contains 47k tweets. For further description about the datasets kindly visit kaggle. 
-# https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification
+---
 
-The Implementation of code is on Google Colab Notebook. Link for colab notebook (in progress) 
-# https://colab.research.google.com/drive/1SRZxnNPCU1KAWVrmrchpXw6wUxr3ibgg?usp=share_link
+## Introduction
+Bullying, an intentional, aggressive, and repetitive behavior, has taken on a digital form known as cyberbullying. The prevalence of social media and the challenges presented by the Covid-19 pandemic have led to a surge in cyberbullying incidents. This modern form of aggression can impact individuals of any age, anytime, and anywhere. The anonymity provided by the internet further complicates efforts to combat cyberbullying compared to traditional bullying.
+
+---
+
+## Statistics
+- **UNICEF Warning (April 15th, 2020):** Highlighting the increased risk of cyberbullying.
+- **Times Of India Report (2021):** 52,974 reported cybercrime incidents in India.
+- **Indian Children:** Approximately 85% reported being victims or perpetrators of cyberbullying.
+- **General Population:** Nearly 8 out of 10 individuals in India experience various forms of cyberbullying, with 63% facing online abuses and insults, and 59% falling victim to false rumors and gossip damaging their image.
+
+To address this issue, our project aims to raise awareness about cyberbullying and implement preventative measures, creating a safe environment free from the fear of online harassment.
+
+---
+
+## Dataset
+For our research, we leverage the "Cyberbullying Classification" dataset, comprising 47,000 tweets extracted using the Twitter API. Detailed descriptions of the datasets can be found on Kaggle: [Cyberbullying Classification Dataset](https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification).
+
+---
+
+## Implementation
+Explore our project's code implementation on Google Colab Notebook: [Google Colab Notebook](https://colab.research.google.com/drive/1SRZxnNPCU1KAWVrmrchpXw6wUxr3ibgg?usp=share_link) (Work in Progress). Delve into our methodologies and approaches using Natural Language Processing (NLP) to combat cyberbullying.
+
+---
+
